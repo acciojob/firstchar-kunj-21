@@ -1,5 +1,8 @@
 function firstChar(text) {
   // your code here
+	text1 = text.split("");
+	res = text1[0]
+	return res
 }
 
 // Do not change the code below
