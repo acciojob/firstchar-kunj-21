@@ -1,6 +1,6 @@
 function firstChar(text) {
   // your code here
-	res = text1[0]
+	res = text[0]
 	return res
 }
 
